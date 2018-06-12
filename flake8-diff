@@ -1,0 +1,2 @@
+#!/bin/bash
+git diff $(git rev-list --boundary HEAD...master| grep "^-" | cut -c2-) $1 | flake8 --diff

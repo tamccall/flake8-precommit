@@ -1,0 +1,5 @@
+-   id: flake8-diff
+    name: flake8-diff
+    entry: flake8-diff
+    language: script
+    files: \.(py)$
