@@ -7,5 +7,5 @@ Copy the following config into your `.pre-commit-config.yaml` file:
     -   id: flake8-diff
 ```
 
-Find more info from [here](https://pre-commit.com).
+Find more info on pre-commit [here](https://pre-commit.com).
 
